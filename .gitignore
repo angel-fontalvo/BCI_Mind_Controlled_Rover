@@ -1,0 +1,8 @@
+# Application properties files
+app_properties.py
+
+# IDE stuff
+.idea/
+
+__pycache__/
+venv
